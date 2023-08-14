@@ -1,86 +1,88 @@
-# "Bous al Carrer" - El Videojuego 🐂🎮
+# 🐂 Project Bravura: Vive la Tradición Milenaria 🐂
 
-**"Bous al Carrer"** es un videojuego de simulación que te sumerge en la tradición valenciana de los toros en la calle. Gracias a la inteligencia artificial y la tecnología de generación procedimental, cada partida es una experiencia única, ofreciendo un mundo dinámico y siempre cambiante.
+![Project Bravura Logo](https://placeholder.com/logo.png)
 
-## 🌍 Modos de Juego
+**Project Bravura** es una inmersión profunda en la rica tradición de la tauromaquia, permitiendo a los jugadores experimentar la cultura, la pasión y la historia detrás de este arte milenario. Desarrollado por **Asimov.dev**, este juego combina gráficos de vanguardia, IA generativa y una narrativa cautivadora para ofrecer una experiencia de juego sin precedentes.
 
-1. **Modo Realista**: Vive la experiencia auténtica de los "Bous al Carrer", con ganaderías, localidades y recortadores reales.
-2. **Modo Imaginación**: Deja volar tu creatividad y crea tu propio mundo. Diseña tus propios toros, recortadores y localidades con la ayuda de una IA generativa.
+## 🌍 Mundo del Juego 🌍
 
-## 🐂 Ganaderías
+El juego se desarrolla en un mundo expansivo que abarca diversas localidades, plazas de toros y ganaderías. Cada ubicación ha sido meticulosamente recreada para reflejar la rica historia y tradición de la tauromaquia.
 
-### Ganaderías de Bous al Carrer:
+### 🏞️ Localidades 🏞️
 
-1. **Fernando Machancoses**: Una de las más prestigiosas en el mundo de "Bous al Carrer".
-2. **Germán Vidal**: Reconocida por su bravura y espectáculo.
-3. **Sergio Centelles**: Con una mezcla de sangre Domecq y Domecq-Núñez.
-4. **Benavent**: Ganadora de múltiples concursos en la Comunidad Valenciana.
-5. **Dani Machancoses**: Destacada en la región de Picassent.
-6. **El Gallo**: Con aportaciones de diversas ganaderías como Gomis y Peris.
-7. **La Espuela**: Otra joya de los festejos populares.
-8. **Peris**: Resistente y destacada en la falta de festejos.
+1. **Puzol**: Conocida por su tradicional "7 de Septiembre".
+2. **La Vall d'Uxó**: Una localidad con profunda tradición taurina.
+3. ... [y muchas más por descubrir]
 
-### Ganaderías de Toros de Lidia (Bou Cerril):
+![Puzol](https://placeholder.com/puzol.png)
 
-1. **Miura**: Conocida por sus toros bravos y su historia en la tauromaquia.
-2. **Victorino Martín**: Famosa por sus toros de encaste Albaserrada.
-3. **Joselito (El Tajo y La Reina)**: Una de las más prestigiosas en España.
-4. **Juan Pedro Domecq**: Destacada por su encaste Parladé.
-5. **Garcigrande**: Proveedora habitual de las principales ferias.
-6. **Alcurrucén**: Famosa en las ferias de San Isidro y Pamplona.
-7. **Samuel Flores**: Con toros de encaste Murube.
-8. **José Arriazu**: Representante de la casta navarra.
+### 🏟️ Plazas de Toros 🏟️
 
-## 🏘️ Localidades
+1. **Plaza de Toros de Castellón**: Un icono de la tauromaquia.
+2. **Plaza de Toros de Zaragoza**: Hogar de la celebración de El Pilar.
+3. **El Torico de Teruel**: Un lugar de encuentro para los aficionados.
+4. ... [y muchas más por explorar]
 
-1. **Puzol**: Conocida por su tradición y pasión por el "Bou al Carrer".
-2. **La Vall d'Uixó**: Destaca por su arraigo y espectacularidad en los festejos.
-3. **Algemesí**: Famosa por su Semana de Bous.
-4. **Onda**: Con una gran afición y tradición.
-5. **Vila-real**: Destacada por sus encierros y sueltas de toros.
-6. **Sueca**: Con eventos taurinos de gran relevancia.
-7. **Alfafar**: Conocida por sus espectaculares "bous embolats".
-8. **Burriana**: Con una gran tradición taurina.
+![Plaza de Toros](https://placeholder.com/plaza.png)
 
-## 🏟️ Plazas de Toros
+### 🐄 Ganaderías 🐄
 
-1. **Plaza de Toros de Castellón**: Principal y más destacada, sede de importantes concursos de recortadores y emboladores.
-2. **Plaza de Toros Monumental de México**: La más grande del mundo, ubicada en Ciudad de México.
-3. **Plaza de toros de La Condomina**: En Murcia, con más de dos siglos de antigüedad.
-4. **Plaza de Toros de Las Ventas**: Emblema de la tauromaquia en Madrid.
-5. **Plaza de Toros de Ronda**: Conocida por su tradicional corrida goyesca.
-6. **Plaza de Toros de Valencia**: Escenario de grandes festejos durante las Fallas.
-7. **Plaza de Toros de Pamplona**: Famosa por los Sanfermines.
-8. **Plaza de Toros de Bilbao**: Conocida como "La Misericordia", sede de la Semana Grande bilbaína.
+#### Bous al Carrer:
+1. **Aida Jovani**: Conocida por su bravura y tradición.
+2. **La Paloma**: Una ganadería con historia y pasión.
+3. **Germán Vidal**: Una tradición que ha pasado de generación en generación.
+4. **Hnos. Cali**: Dos jóvenes valencianos con un sueño ganadero.
+5. **José Arriazu**: Representante de la casta navarra.
+6. ... [y muchas más por conocer]
 
-## 🕺 Modo Carrera
+#### Toros de Lidia:
+1. **Samuel Flores**: Una de las ganaderías más prestigiosas de España.
+2. **La Quinta**: Fundada en 1987, es símbolo de tradición y bravura.
+3. ... [y muchas más por descubrir]
 
-1. **Recortadores**: Desarrolla tu habilidad y destreza frente al toro, participa en concursos y conviértete en el mejor recortador del mundo.
-2. **Emboladores**: Especialízate en el arte de embolar toros y br
+![Ganadería](https://placeholder.com/ganaderia.png)
 
-inda espectáculos nocturnos inolvidables.
-3. **Forcados Portugueses**: Aprende y vive la tradición portuguesa de las pegas de cara, donde un grupo de hombres desafía al toro sin capote ni muleta.
+## 🎮 Modos de Juego 🎮
 
-## 🎨 Diseño y Tecnología
+### 🐂 Modo Ganadería 🐂
 
-- **Unreal Engine**: Para un diseño gráfico de vanguardia.
-- **MetaHumans**: Creación de personajes hiperrealistas.
-- **Blender**: Diseño y modelado 3D.
-- **IA Generativa**: Creación de mundos y escenarios dinámicos y únicos.
-- **API de GPT**: Integración de diálogos y narrativas realistas.
+Dive deep into the world of breeding, genetics, and bull rearing. Choose from various breeds, manage your ranch, and strive for the perfect bull. With the power of generative AI, players can experiment with genetics, striving to breed the perfect bull for the ring.
 
-## 📜 Licencia
+### 🏃 Modo Carrera 🏃
 
-El juego "Bous al Carrer" está bajo la licencia GNU v2, garantizando la libertad de compartir y modificar el software.
+Embark on a journey as a "recortador", rising through the ranks, facing challenges, and making a name for yourself in the world of bullfighting. Train, compete, and carve your path to glory.
 
-## 📺 Referencias en YouTube
+### 🌌 Modo Imaginación 🌌
 
-- [Documental sobre Ganaderías](https://www.youtube.com/)
-- [Historia de los Bous al Carrer](https://www.youtube.com/)
-- [Concursos de Recortadores](https://www.youtube.com/)
+Unleash the power of generative AI to create your own world. Design arenas, bulls, and even towns. Let your imagination run wild and share your creations with the world.
+
+### 🎶 Música y Charangas 🎶
+
+Feel the rhythm of traditional pasodobles, enhancing the atmosphere and bringing authenticity to the game.
+
+![Música](https://placeholder.com/music.png)
+
+## 🎥 Leyendas 🎥
+
+- **El Toro Peregrino**: [Ver video](https://youtube.com)
+- **El Califa**: [Ver video](https://youtube.com)
+- **El Ratón**: Conocido como "el toro asesino", Ratón ha dejado una marca indeleble en la historia de la tauromaquia. [Ver video](https://youtube.com)
+- **La Leyenda del Toro Ratonero**: [Ver video](https://youtube.com)
+
+## 🖥️ Tecnología 🖥️
+
+Desarrollado con **Unreal Engine**, el juego aprovecha la última tecnología en gráficos y física para ofrecer una experiencia realista. La integración de **MetaHumans** proporciona personajes hiperrealistas, mientras que herramientas como **Blender** permiten un diseño de mundo detallado. La IA generativa, potenciada por **GPT**, agrega una capa de profundidad y personalización al juego.
+
+## 📜 Licencia 📜
+
+Project Bravura se distribuye bajo la licencia **GNU v2**, garantizando la libertad de usar, estud
+
+iar, compartir y modificar el juego.
+
+---
+
+🔗 [Sitio Oficial](https://asimov.dev/bravura) | 🔗 [Foro de la Comunidad](https://forum.asimov.dev/bravura) | 🔗 [Soporte](https://asimov.dev/support)
 
 ---
 
-🎉 ¡Únete a esta aventura y vive la tradición como nunca antes! 🎉
-
----
+**Asimov.dev** se enorgullece de presentar un juego que no solo entretiene, sino que también educa y celebra una tradición que ha sido parte de la cultura española durante siglos. ¡Únete a nosotros en este emocionante viaje a través de la historia y la pasión de la tauromaquia! 🐂🌹
